@@ -7,7 +7,7 @@ I am a second-year MSPPM. I studied Political Science at Virginia Wesleyan Unive
 
 ## What I Hope to Learn 
 
-I am taking this class to learn the basics of presenting data in a digestable way. At CMU we spend a lot of our time talking about how to retrieve data, analyze data, or track data, but very few classes focus specifically on how to present the data in a way that is accessible to the public -- it matters just as much how we say something as what we say. 
+I am taking this class to learn the basics of presenting data in a coherent way. At CMU we spend a lot of our time talking about how to retrieve data, analyze data, or track data, but very few classes focus specifically on how to present the data in a way that is accessible to the public -- it matters just as much how we say something as what we say. 
 
 ### Portfolio 
 
