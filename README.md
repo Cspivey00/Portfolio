@@ -12,3 +12,6 @@ I am taking this class to learn the basics of presenting data in a coherent way.
 ### Portfolio 
 
 Hopefully I'll have some cool infographics to go here. 
+
+
+Link part Assignment 1 
